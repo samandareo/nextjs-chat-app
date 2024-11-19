@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --soft-gray: #F9F9F9; /* primary background*/
+    --deep-royal-blue: #4A69BD; /* secondary background*/
+    --sunset-orange: #ff6b6b; /* accent colors*/
+    --hover-sunset-orange: #ff4f4f; /* accent colors*/
+    --dark-charcoal: #2E2E2E; /* text color*/
+    --incoming-message: #EDE7F6;
+    --outgoing-message: #FFDAB9;
+}
